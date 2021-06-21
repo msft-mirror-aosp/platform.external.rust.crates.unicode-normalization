@@ -2,13 +2,22 @@
 {
   "presubmit": [
     {
+      "name": "doh_unit_test"
+    },
+    {
       "name": "quiche_device_test_src_lib"
+    },
+    {
+      "name": "unicode-normalization_device_test_src_lib"
     },
     {
       "name": "url_device_test_src_lib"
     },
     {
-      "name": "unicode-normalization_device_test_src_lib"
+      "name": "url_device_test_tests_data"
+    },
+    {
+      "name": "url_device_test_tests_unit"
     }
   ]
 }
