@@ -8,14 +8,6 @@
       "path": "external/rust/crates/url"
     }
   ],
-  "postsubmit": [
-    {
-      "name": "doh_unit_test"
-    },
-    {
-      "name": "unicode-normalization_test_src_lib"
-    }
-  ],
   "presubmit": [
     {
       "name": "doh_unit_test"
